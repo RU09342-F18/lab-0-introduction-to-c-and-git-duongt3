@@ -4,6 +4,8 @@ Math Library
 
 Performs a math operation on num1 and num2
 
+int math(int num1, int num2, char Operator)
+
 Supported operations:
 
 '+' -> Add (num1 + num2)
