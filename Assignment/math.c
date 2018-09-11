@@ -52,7 +52,7 @@ int math(int num1, int num2, char Operator) {
         case '~':
         	return ~num1;
         default:
-        	printf("Invalid Operation");
+        	printf("Invalid Operation: ");
         	return -1;
     }
 }
